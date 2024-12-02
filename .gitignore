@@ -7,6 +7,8 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# node_modules and build folder
+# If you want to track node_modules, remove the next line
 node_modules
 dist
 dist-ssr
